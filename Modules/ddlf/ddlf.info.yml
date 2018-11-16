@@ -1,0 +1,5 @@
+name: Dependent dropdown lists for Forms
+description: Using Ajax in dependent dropdown lists for Forms.
+package: msscode
+type: module
+core: 8.x

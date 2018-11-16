@@ -1,0 +1,6 @@
+ddlf.form:
+  path: 'page-form'
+  defaults:
+    _form: '\Drupal\ddlf\Form\ddlForm'
+  requirements:
+      _access: 'TRUE'
