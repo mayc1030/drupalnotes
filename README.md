@@ -3,8 +3,10 @@ Drupal Base
 
 [![Latest Stable Version](https://poser.pugx.org/valuebound/drupal/v/stable)](https://packagist.org/packages/valuebound/drupal) [![License](https://poser.pugx.org/valuebound/drupal/license)](https://packagist.org/packages/valuebound/drupal) [![composer.lock](https://poser.pugx.org/valuebound/drupal/composerlock)](https://packagist.org/packages/valuebound/drupal)
 
-## 🎏 🐙 🔍 ⚡ 🐠 
-<%= octicon "logo-github" %> 
+## 🎏 🐙 🔍 ⚡ 🐠 🐪 🐉
+## ☺😊😀😁😂😃😄😅😆😇😈😉😯😐😑😕😠😬😡😢😴😮😣😤😥😦😧😨😩😰😟😱😲😳😵😶😷😞😒😍😛😜😝😋😗😙😘😚😎😭😌😖😔😪😏😓😫
+## 💋 💌 💍 💎 💏 💐 💑 💒 💓 💔 💕 💖 💗 💘 💙 💚 💛 💜 💝 💞 💟 👪 👫 👬 👭 
+
 ##Live Site: [stitches.hyperyolo.com](https://stitches.hyperyolo.com)
 ![app-screen-shot](https://cdn-images-1.medium.com/max/2000/1*DqVCpGnXJefwLXFneEHPZg.png)
 
